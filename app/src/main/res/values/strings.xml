@@ -1,0 +1,25 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">Monitor OBD II</string>
+    <string name="metrics_title">Métricas do Veículo</string>
+    <string name="status_sending_data">Enviando dados para a nuvem...</string>
+    <string name="update_button">Atualizar Dados</string>
+
+    <!-- Labels das Métricas -->
+    <string name="rpm_label">Rotação do Motor (RPM)</string>
+    <string name="speed_label">Velocidade</string>
+    <string name="temperature_label">Temperatura do Motor</string>
+    <string name="fuel_level_label">Nível de Combustível</string>
+    <string name="map_label">Pressão Absoluta do Coletor (MAP)</string>
+    <string name="maf_label">Fluxo de Ar Massivo (MAF)</string>
+    <string name="throttle_label">Posição do Acelerador</string>
+    <string name="voltage_label">Tensão da Bateria</string>
+    <string name="engine_load_label">Carga do Motor</string>
+    <string name="fuel_pressure_label">Pressão do Combustível</string>
+    <string name="fuel_trim_label">Ajuste de Combustível</string>
+    <string name="air_fuel_ratio_label">Relação Ar/Combustível</string>
+    <string name="egr_label">Taxa de Recirculação de Gases de Exaustão (EGR)</string>
+    <string name="ignition_timing_label">Tempo de Ignição</string>
+    <string name="intake_air_temp_label">Temperatura do Ar de Admissão</string>
+
+</resources>
