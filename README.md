@@ -10,8 +10,6 @@ Este é um aplicativo Android desenvolvido em Kotlin que se conecta ao dispositi
 - [Configuração](#configuração)
 - [Uso](#uso)
 - [Dependências](#dependências)
-- [Notas Importantes](#notas-importantes)
-- [Licença](#licença)
 
 ## Recursos
 
@@ -44,7 +42,7 @@ Construa o Projeto
 Permita que o Gradle sincronize e construa o projeto.
 Resolva quaisquer dependências se solicitado.
 
-##Configuração
+## Configuração
 Configuração do AWS IoT
 Criar Certificados no AWS IoT Console
 
@@ -93,7 +91,7 @@ Copiar código
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 <uses-permission android:name="android.permission.INTERNET"/>
 
-##Uso
+## Uso
 Execute o Aplicativo
 
 Conecte seu dispositivo Android via USB ou use um emulador com suporte a Bluetooth.
@@ -103,7 +101,7 @@ Conecte-se ao Dispositivo OBD-II
 Certifique-se de que seu adaptador OBD-II Bluetooth está conectado ao veículo e que o veículo está ligado.
 Emparelhe seu dispositivo Android com o adaptador OBD-II nas configurações de Bluetooth.
 
-##Colete Dados
+## Colete Dados
 
 Abra o aplicativo.
 O aplicativo solicitará que você selecione o dispositivo OBD-II pareado.
